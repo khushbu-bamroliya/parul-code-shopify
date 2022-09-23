@@ -47,3 +47,4 @@ HOST={your app's host}              # Your app's host, without the protocol pref
 ## License
 
 This repository is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+# parul-code-shopify
